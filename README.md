@@ -4,7 +4,7 @@
 The Book Recommendation System is designed to suggest books to users based on their interests and preferences. It utilizes various recommendation techniques, including popularity-based filtering, collaborative filtering, content-based filtering, and hybrid approaches.
 
 ### Dataset Source:
-The dataset used for this project is available [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/). It consists of three tables:
+The dataset used for this project is available [here](https://drive.google.com/drive/folders/1xv7na_E7hmg9OFKWGu1ZiO4v_ZPPodyc?usp=sharing). It consists of three tables:
 - **Books**
 - **Users**
 - **Ratings**
