@@ -38,8 +38,8 @@ Data preprocessing was performed separately for each table to ensure consistency
 
 ### 2.2 Average Weighted Rating Recommendation
 - Books are ranked based on a weighted score calculated using the formula:
- score= t/(t+m)∗a + m/(m+t)∗c
-  Where:
+- score= t/(t+m)∗a + m/(m+t)∗c
+- Where:
   - *t* = Total ratings for the book
   - *m* = Minimum required ratings for inclusion
   - *a* = Average rating of the book
