@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Book Recommendation System using Machine learning.
 
 ## Overview
 The Book Recommendation System is designed to suggest books to users based on their interests and preferences. It utilizes various recommendation techniques, including popularity-based filtering, collaborative filtering, content-based filtering, and hybrid approaches.
